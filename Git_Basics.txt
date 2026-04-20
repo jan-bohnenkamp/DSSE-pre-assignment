@@ -1,5 +1,0 @@
-git log --oneline
-git log --numstat
-git log --pretty=format:"%H %an %ad %s"
-git show <commit>
-
